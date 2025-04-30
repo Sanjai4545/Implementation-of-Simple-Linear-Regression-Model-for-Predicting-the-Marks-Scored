@@ -60,21 +60,5 @@ rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
 ## Output:
-### Dataset
-![output](./images/dataset.png)
-### Head Values
-![output](./images/head.png)
-### Tail Values
-![output](./images/tail.png)
-### X and Y values
-![output](./images/xyvalues.png)
-### Predication values of X and Y
-![output](./images/predict%20.png)
-### MSE,MAE and RMSE
-![output](./images/values.png)
-### Training Set
-![output](./images/train.png)
-### Testing Set
-![output](./images/test.png)
-## Result:
-Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+![Screenshot 2025-04-30 141000](https://github.com/user-attachments/assets/2b065d2c-a027-456c-9763-6c843b935f05)
+
