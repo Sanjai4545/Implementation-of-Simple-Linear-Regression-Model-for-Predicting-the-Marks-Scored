@@ -66,9 +66,6 @@ print("RMSE= ",rmse)
 
 ![Screenshot 2025-04-30 141452](https://github.com/user-attachments/assets/e9959bee-a826-4ba9-9374-4adf6b47ddf6)
 
-![Screenshot 2025-04-30 141510](https://github.com/user-attachments/assets/488678ce-6cfa-420c-a1a1-a8f112d0d33a)
-
-![Screenshot 2025-04-30 141525](https://github.com/user-attachments/assets/59011f60-a21e-4cef-b728-1943aee76a38)
 
 
 
